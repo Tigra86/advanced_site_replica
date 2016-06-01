@@ -251,6 +251,18 @@ footer p {
 
 
 
+@media (max-width: 1210px) {
+	.features .box {
+		display: none;
+	}
+}
+
+
+@media (max-width: 887px) {
+	.contact {
+		display: none;
+	}
+}
 
 
 
